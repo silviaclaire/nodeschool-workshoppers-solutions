@@ -1,0 +1,11 @@
+/* partial.scss
+
+   $color: #ff0000
+
+*/
+
+@import 'partial';
+
+body {
+  color: $color;
+}
